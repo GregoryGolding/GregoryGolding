@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Greg
 - 👀 I’m interested in learning to code and everything associated with technical development
-- 🌱 I’m currently learning pything, SQL, how databases function. 
+- 🌱 I’m currently learning javascript, React, python, SQL, how databases function. 
 - 💞️ I’m looking to collaborate on the problem of matchning strings
 
 
